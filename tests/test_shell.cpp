@@ -12,7 +12,7 @@ void acc(std::string &name,int &pass,int &passV){
     std::cin >> pass;
 
     std::cout << "Retype new password: ";
-    std::cin >> passsV;
+    std::cin >> passV;
 
     while(pass != passV){
         if(pass == passV){
