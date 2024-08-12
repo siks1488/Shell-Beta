@@ -7,7 +7,7 @@ using std::endl;
 
 int main(){
     srand(time(0));
-
+    
     std::string input;
     std::string name;
     int pass;
@@ -25,4 +25,3 @@ int main(){
     }
     return 0;
 }
-
